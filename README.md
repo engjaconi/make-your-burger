@@ -8,6 +8,7 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+npm run backend, na pasta db para rodar o servidor de banco de dados fake.
 ```
 
 ### Compiles and minifies for production
